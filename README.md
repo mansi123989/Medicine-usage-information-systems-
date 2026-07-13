@@ -3,6 +3,17 @@
 ## 📖 Overview
 AI-Powered Medicine Information Assistant is a Streamlit-based application that extracts medicine information from package images using OCR and NLP. It predicts medicine uses using a multi-label machine learning model and provides multilingual audio explanations to improve user experience and accessibility.
 
+## 🎯 Target Users
+
+- Patients seeking quick and easy-to-understand medicine information.
+- Elderly and illiterate users who cannot easily search or read medicine information online, benefiting from multilingual audio explanations.
+
+  
+
+## 🚀 Live Demo
+
+Coming Soon...
+
 ## 📸 Screenshots
 The **project_demo/** folder contains sample outputs and the user interface of the application, showcasing its key features and workflow.
 
